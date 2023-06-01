@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="protonwalletDark.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="protonwalletDark.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="protonwalletDark.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
