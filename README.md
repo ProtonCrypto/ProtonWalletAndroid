@@ -7,7 +7,7 @@ Proton Wallet - это безопасный крипто кошелек в се�
 
 ### 📎 Активные проекты
 
-* [⚙ Android кошелек](https://github.com/ProtonCrypto/ProtonWalletRecoveryBot)
+* [⚙ Android кошелек](https://github.com/ProtonCrypto/ProtonWalletAndroid)
 * [⚙ Главный API LV 1](https://github.com/ProtonCrypto/ProtonApiLV1)
 * [⚙ Модуль API LV 2](https://github.com/ProtonCrypto/ProtonApiLV2)
 * [⚙ Бот для востановления](https://github.com/ProtonCrypto/ProtonWalletRecoveryBot)
