@@ -1,4 +1,6 @@
-![Thumbnail](https://github.com/ProtonCrypto/ProtonWalletAndroid/assets/52669201/2197ea8f-9ca5-4f62-bcff-5b832c2b8376)
+<img width="1448" alt="PW" src="https://github.com/ProtonCrypto/ProtonWalletAndroid/assets/52669201/81ad3276-236b-4dad-875a-41b43a9d7f82">
+
+
 
 
 ### 🦊 Информация
